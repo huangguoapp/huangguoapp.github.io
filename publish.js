@@ -42,7 +42,7 @@ var newestUrls = [
     'https://huangguoju.com',
 	'https://a52d7.gi29t15s.com',
 	'https://73aa1.qr60v19m.cc',
-    'https://997.tc41p53k.cc/chan/ak0006/ac4Ea'
+    'https://997.tc41p53k.cc'
 ];
 
 var otherUrls = [
