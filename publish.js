@@ -40,9 +40,9 @@ var JumpPage="";
 
 var newestUrls = [
     'https://huangguoju.com',
-	'https://309b1.htv348nfs.cc',
-	'https://41c3e.huviwe5p.cc',
-    'https://92815.jzgcopdz.cc'
+	'https://2fdc.flwdlxrmn.cc',
+	'https://12fc.ajtvkkexf.cc',
+    'https://520fvs.ieglwgxf.cc'
 ];
 
 var otherUrls = [
